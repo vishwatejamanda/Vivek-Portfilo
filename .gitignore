@@ -1,0 +1,17 @@
+# Build / scratch / screenshots
+screenshot*.png
+mobile_*.png
+*_preview.png
+dom_dump.html
+
+# Scraping artifacts
+cookies.txt
+hts-log.txt
+hts-cache/
+backblue.gif
+fade.gif
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.log

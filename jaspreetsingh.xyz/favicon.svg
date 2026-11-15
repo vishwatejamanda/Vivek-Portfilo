@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="v-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1b34"/>
+      <stop offset="40%" stop-color="#1a2f52"/>
+      <stop offset="62%" stop-color="#29426a"/>
+      <stop offset="76%" stop-color="#44557a"/>
+      <stop offset="86%" stop-color="#7b6684"/>
+      <stop offset="93%" stop-color="#b97d82"/>
+      <stop offset="100%" stop-color="#e29a78"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#v-sky)"/>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="13.25" fill="none" stroke="#f6ecdc" stroke-opacity="0.18" stroke-width="1.5"/>
+  <g fill="#f6ecdc">
+    <rect x="13" y="16.5" width="13.5" height="3" rx="0.5" />
+    <polygon points="16,18 24.5,18 34,47 28.5,47" />
+    <polygon points="28.5,47 34,47 47.5,18 42.5,18" />
+    <rect x="38.5" y="16.5" width="12" height="3" rx="0.5" />
+    <ellipse cx="31.25" cy="46" rx="2.75" ry="1.75" />
+  </g>
+  <circle cx="45.5" cy="11.5" r="2.2" fill="#e97f61"/>
+</svg>

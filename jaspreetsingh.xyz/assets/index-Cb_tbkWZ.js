@@ -1,0 +1,1 @@
+import o from"./WorkComingSoonPage-DKag923y.js";import"vendor-CUM6pZK6.js";import"CaseStudyMasthead-CCHb3cv2.js";import"main-HKqPyxAo.js";import"motion-DEa3jZ1l.js";import"layout-DFa7AYOO.js";/* empty css                         */const a=o;export{a as component};
